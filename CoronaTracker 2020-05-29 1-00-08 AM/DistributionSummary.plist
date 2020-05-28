@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CoronaTracker.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>50735B276860BA6A057F7F891C2BBDFB1FFBC24B</string>
+				<key>dateExpires</key>
+				<string>5/27/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>50735B276860BA6A057F7F891C2BBDFB1FFBC24B</string>
+						<key>dateExpires</key>
+						<string>5/27/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HG4G2ZMGV8</string>
+						<key>name</key>
+						<string>Bishnu Aryal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>50735B276860BA6A057F7F891C2BBDFB1FFBC24B</string>
+						<key>dateExpires</key>
+						<string>5/27/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HG4G2ZMGV8</string>
+						<key>name</key>
+						<string>Bishnu Aryal</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>50735B276860BA6A057F7F891C2BBDFB1FFBC24B</string>
+						<key>dateExpires</key>
+						<string>5/27/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>HG4G2ZMGV8</string>
+						<key>name</key>
+						<string>Bishnu Aryal</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>HG4G2ZMGV8.biszaal.CoronaTracker</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>HG4G2ZMGV8</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>CoronaTracker.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>732fc132-63d2-4899-9c68-c23e85833e67</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: biszaal.CoronaTracker</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>HG4G2ZMGV8</string>
+				<key>name</key>
+				<string>Bishnu Aryal</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
